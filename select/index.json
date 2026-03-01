@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "虹を超えて天までとどけっ！",
+  "base_artist": "Ｔ－Ｐｉｓｔｏｎｚ＋ＫＭＣ",
+  "createdAt": "2026-03-01T04:20:23.178470Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "虹を超えて天までとどけっ!(Movie Ver.|オープニングテーマ)",
+      "artist": "T-Pistonz+KMC",
+      "has_synced": false,
+      "path": "select/pl_01_虹を超えて天までとどけっ!(Movie_Ver._オープニングテーマ)_T-Pistonz+KMC.txt"
+    }
+  ]
+}
